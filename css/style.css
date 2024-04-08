@@ -11,3 +11,8 @@ header {
 section {
     margin: 2rem auto;
 }
+
+footer {
+    background-color: #1c324e;
+    color: white;
+}
