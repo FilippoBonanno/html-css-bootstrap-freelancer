@@ -18,5 +18,10 @@ section {
 
 footer {
     background-color: #1c324e;
-    color: white;
+}
+
+.riga {
+    margin-top: 0.6rem;
+    width: 10rem;
+    height: 3px;
 }
